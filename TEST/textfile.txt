@@ -1,2 +1,3 @@
 This is a new text file.
 This is a edit made on the website / server.
+Fixed a bug while in BugFix branch.
